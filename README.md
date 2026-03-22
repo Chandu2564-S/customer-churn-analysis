@@ -1,9 +1,7 @@
-# customer-churn-analysis
-Customer churn analysis using Excel dashboard
 # Customer Churn Analysis
 
 ## 📊 Project Overview
-This project analyzes customer churn data to identify key factors influencing customer retention.
+This project analyzes customer churn data using Excel to identify key factors influencing customer retention and business decision-making.
 
 ## 🔍 Key Insights
 - Customers with 12–24 months tenure have the highest churn (~32.5%)
@@ -13,10 +11,19 @@ This project analyzes customer churn data to identify key factors influencing cu
 ## 🛠 Tools Used
 - Microsoft Excel
 - Pivot Tables
+- Data Cleaning
 - Data Visualization
 
 ## 📈 Dashboard
-The project includes an Excel dashboard visualizing churn trends across different customer segments.
+An interactive Excel dashboard was created to visualize churn trends across different customer segments.
+
+![Dashboard](Telecom Churn.png)
 
 ## 🎯 Conclusion
-Tenure is the most significant factor influencing churn. Businesses should focus on retaining customers during the first 2 years.
+Customer tenure is the most significant factor influencing churn. Businesses should focus on improving retention strategies during the first two years of the customer lifecycle.
+
+## 🚀 Skills Demonstrated
+- Data Analysis
+- Business Insight Generation
+- Data Visualization
+- Problem Solving
